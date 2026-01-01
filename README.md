@@ -62,32 +62,24 @@
 | **AI Tools** | <img src="https://skillicons.dev/icons?i=botpress,postman" /> &nbsp; **n8n / Gemini / LangChain** |
 
 ---
+## 📊 Coding Impact & Proficiency
 
-## 📊 Coding Impact & Consistency
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Ashishku15?theme=dark&font=Syne&ext=activity" width="60%" alt="LeetCode Stats" />
+</div>
 
-<table align="center" width="100%" border="0" cellpadding="0" cellspacing="5">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishku1502&theme=transparent&fire=10b981&currStreakLabel=0e75b6&sideLabels=ffffff&border=0e75b6&border_radius=10" 
-           width="100%" 
-           alt="Contribution Streak" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://leetcard.jacoblin.cool/Ashishku15?theme=dark&font=Syne&ext=activity" 
-           width="100%" 
-           alt="LeetCode Stats" />
-    </td>
-  </tr>
-</table>
+<br />
 
-<div align="center" style="margin-top: 20px;">
-  <p><b>⚡ Weekly Activity Timeline</b></p>
+<div align="center">
+  <p><b>⚡ Weekly Activity Heatmap</b></p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishku1502&bg_color=0d1117&color=10b981&line=0e75b6&point=ffffff&area=true&hide_border=true" width="100%" />
   
   <br />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashishku1502&theme=dracula&no-frame=true&row=1&margin-w=15" width="100%" style="margin-top: 15px;" />
+  <p><b>🏆 Milestones & Achievements</b></p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashishku1502&theme=dracula&no-frame=true&row=1&margin-w=15" width="100%" />
 </div>
+
 ---
 ## 🔥 Currently Cooking
 
