@@ -1,10 +1,19 @@
-<div align="center">
+ <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:10b981&height=220&section=header&text=Ashish%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <img src="profile-pic.jpg" alt="Ashish Kumar" width="180" style="border-radius: 50%; border: 4px solid #10b981; padding: 5px; margin-top: -110px; background: #0d1117; box-shadow: 0px 10px 30px rgba(16, 185, 129, 0.3);"/>
+  <div style="margin-top: -100px;">
+    <img src="https://github.com/Ashishku1502/Ashishku1502/blob/main/WhatsApp%20Image%202025-12-24%20at%206.48.38%20PM.jpeg?raw=true" 
+         alt="Ashish Kumar" 
+         width="180" 
+         height="180" 
+         style="border-radius: 50%; border: 6px solid #0d1117; outline: 3px solid #10b981; background: #0d1117; object-fit: cover;" />
+  </div>
+
+  <br />
 
   <h1>Hi 👋, I'm Ashish Kumar</h1>
   <p>🚀 <b>AI Full Stack Developer | MERN | Cloud | AI Agents</b></p>
+</div>
   
   <img src="https://komarev.com/ghpvc/?username=Ashishku1502&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
   <p align="center">
@@ -113,7 +122,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
 </div>
----
+
 
   <br />
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=30&section=footer" width="100%" />
