@@ -7,6 +7,14 @@
   <p>🚀 <b>AI Full Stack Developer | MERN | Cloud | AI Agents</b></p>
   
   <img src="https://komarev.com/ghpvc/?username=Ashishku1502&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+  <p align="center">
+<a href="https://github.com/Ashishku1502"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/Ashishku15"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/ashishku1502/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://ashishdev-portfolio.vly.site/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
+
+<div align="center">
 </div>
 
 ---
