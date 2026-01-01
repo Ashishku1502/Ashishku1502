@@ -69,7 +69,9 @@
 
 ---
 
-## 📊 Performance Metrics
+---
+
+## 📊 Performance Metrics & Coding Stats
 
 <div align="center">
   <table border="0">
@@ -89,7 +91,15 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishku1502&theme=transparent&fire=10b981&currStreakLabel=0e75b6&sideLabels=ffffff&border=0e75b6&border_radius=15" height="180" alt="GitHub Streak" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishku1502&bg_color=00000000&color=10b981&line=0e75b6&point=ffffff&area=true&hide_border=true" height="180" alt="Activity Graph" />
+        <img src="https://leetcard.jacoblin.cool/Ashishku15?theme=dark&font=Syne&ext=activity" height="180" alt="LeetCode Stats" />
+      </td>
+    </tr>
+  </table>
+
+  <table border="0">
+    <tr>
+      <td width="100%" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishku1502&bg_color=00000000&color=10b981&line=0e75b6&point=ffffff&area=true&hide_border=true" width="95%" height="180" alt="Activity Graph" />
       </td>
     </tr>
   </table>
