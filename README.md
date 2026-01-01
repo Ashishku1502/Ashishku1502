@@ -73,11 +73,15 @@
 <div align="center">
   <p><b>⚡ Weekly Activity Heatmap</b></p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishku1502&bg_color=0d1117&color=10b981&line=0e75b6&point=ffffff&area=true&hide_border=true" width="100%" />
-  
-  <br />
-  
+</div>
+
+<br />
+
+<div align="center">
   <p><b>🏆 Milestones & Achievements</b></p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashishku1502&theme=dracula&no-frame=true&row=1&margin-w=15" width="100%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ashishku1502&theme=dracula&no-frame=false&margin-w=15&column=4&border=0e75b6&rank=SSS,SS,S,AAA,AA,A" width="100%" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
