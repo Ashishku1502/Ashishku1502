@@ -11,13 +11,36 @@
 
 ---
 
+---
+
 ## 🚀 About Me
 
-- 💻 **AI Full Stack Developer** with **4+ years** of professional experience.
-- ⚙️ **Core Tech:** Specialized in building high-performance applications using **JavaScript, React, Node.js, and MongoDB**.
-- 🤖 **AI Enthusiast:** Currently architecting **AI Agents**, **n8n automations**, and **Gemini AI** integrations.
-- 🧠 **Engineer:** Passionate about **System Design**, complex API structures, and robust **CI/CD** pipelines.
-- 🎯 **Vision:** Creating scalable, cloud-native solutions that solve real-world problems.
+<table align="center" border="0" cellpadding="10">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" width="40" align="left" style="margin-right: 15px;" />
+      <h3>Expert Full Stack Developer</h3>
+      <p>Over <b>4+ years</b> of crafting high-performance web ecosystems. I bridge the gap between elegant frontends and robust, scalable backends.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="40" align="left" style="margin-right: 15px;" />
+      <h3>Core Technology Stack</h3>
+      <p>Mastering the <b>MERN</b> landscape: <b>JavaScript (ES6+), React.js, Node.js,</b> and <b>MongoDB</b> to build seamless user experiences.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://cdn-icons-png.flaticon.com/512/4712/4712139.png" width="40" align="left" style="margin-right: 15px;" />
+      <h3>AI & Automation Architect</h3>
+      <p>Harnessing <b>Gemini AI</b> and <b>n8n</b> to build intelligent <b>AI Agents</b> that automate complex business logic and workflows.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://cdn-icons-png.flaticon.com/512/10142/10142385.png" width="40" align="left" style="margin-right: 15px;" />
+      <h3>System Design & DevOps</h3>
+      <p>Architecting <b>Cloud-Native</b> systems with a focus on <b>Microservices, API security,</b> and automated <b>CI/CD</b> pipelines.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
