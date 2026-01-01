@@ -22,12 +22,12 @@
     <td width="50%" valign="top" style="border-right: 1px solid #30363d; border-bottom: 1px solid #30363d;">
       <img src="https://cdn-icons-png.flaticon.com/512/9496/9496555.png" width="50" align="left" style="margin-right: 15px;" />
       <h3 style="color: #0e75b6;">Expert Full Stack Developer</h3>
-      <p>Over <b>4+ years</b> of crafting high-performance web ecosystems. Specializing in bridging the gap between elegant frontends and robust, scalable backends.</p>
+      <p>Over <b>4+ years</b> of crafting high-performance web ecosystems. Specializing in bridging the gap between elegant frontends and robust backends.</p>
     </td>
     <td width="50%" valign="top" style="border-bottom: 1px solid #30363d;">
       <img src="https://cdn-icons-png.flaticon.com/512/7991/7991055.png" width="50" align="left" style="margin-right: 15px;" />
       <h3 style="color: #10b981;">Core Technology Stack</h3>
-      <p>Mastering the <b>MERN</b> landscape: <b>JavaScript (ES6+), React.js, Node.js,</b> and <b>MongoDB</b> to build seamless user experiences.</p>
+      <p>Mastering the <b>MERN</b> landscape: <b>JavaScript, React.js, Node.js,</b> and <b>MongoDB</b> to build seamless user experiences.</p>
     </td>
   </tr>
   <tr>
