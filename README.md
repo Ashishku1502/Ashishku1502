@@ -1,14 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:10b981&height=220&section=header&text=Ashish%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <p align="center">
-    <img src="profile.jpg" 
-         alt="Ashish Kumar" 
-         width="180" 
-         height="180" 
-         style="border-radius: 50%; border: 5px solid #0d1117; outline: 3px solid #10b981; margin-top: -100px; object-fit: cover; display: block;" />
-  </p>
-
   <br />
 
   <h1>Hi 👋, I'm Ashish Kumar</h1>
