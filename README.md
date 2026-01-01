@@ -1,13 +1,15 @@
  <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:10b981&height=220&section=header&text=Ashish%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <div style="margin-top: -100px;">
-    <img src="https://github.com/Ashishku1502/Ashishku1502/blob/main/WhatsApp%20Image%202025-12-24%20at%206.48.38%20PM.jpeg?raw=true" 
+  <div align="center" style="margin-top: -100px;">
+    <img src="profile.jpg" 
          alt="Ashish Kumar" 
          width="180" 
          height="180" 
          style="border-radius: 50%; border: 6px solid #0d1117; outline: 3px solid #10b981; background: #0d1117; object-fit: cover;" />
   </div>
+
+  <br />
 
   <br />
 
