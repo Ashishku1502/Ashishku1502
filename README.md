@@ -65,25 +65,21 @@
 ## 📊 Coding Impact & Proficiency
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Ashishku15?theme=dark&font=Syne&ext=activity" width="60%" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Ashishku15?theme=dark&font=Syne&ext=activity" width="65%" alt="LeetCode Stats" />
 </div>
 
 <br />
 
 <div align="center">
   <p><b>⚡ Weekly Activity Heatmap</b></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishku1502&bg_color=0d1117&color=10b981&line=0e75b6&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishku1502&bg_color=0d1117&color=10b981&line=0e75b6&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Heatmap" />
 </div>
-
-<br />
 
 <div align="center">
-  <p><b>🏆 Milestones & Achievements</b></p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ashishku1502&theme=dracula&no-frame=false&margin-w=15&column=4&border=0e75b6&rank=SSS,SS,S,AAA,AA,A" width="100%" alt="GitHub Trophies" />
-  </a>
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&section=footer" width="50%" />
+  <p><i>"Consistent growth is the only metric that matters."</i></p>
 </div>
-
 ---
 ## 🔥 Currently Cooking
 
