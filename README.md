@@ -63,20 +63,9 @@
 
 ---
 
-## 📊 Performance & Impact
+## 📊 Coding Impact & Proficiency
 
 <table align="center" width="100%" border="0" cellpadding="0" cellspacing="5">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ashishku1502&show_icons=true&theme=transparent&title_color=0e75b6&text_color=ffffff&icon_color=10b981&border_color=0e75b6&hide_border=false&border_radius=10" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishku1502&layout=compact&theme=transparent&title_color=0e75b6&text_color=ffffff&icon_color=10b981&border_color=0e75b6&hide_border=false&border_radius=10" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<table align="center" width="100%" border="0" cellpadding="0" cellspacing="5" style="margin-top: -10px;">
   <tr>
     <td width="50%" align="center" valign="top">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishku1502&theme=transparent&fire=10b981&currStreakLabel=0e75b6&sideLabels=ffffff&border=0e75b6&border_radius=10" width="100%" alt="Contribution Streak" />
@@ -88,14 +77,15 @@
 </table>
 
 <div align="center" style="margin-top: 20px;">
-  <p><b>⚡ Activity Timeline</b></p>
+  <p><b>⚡ Weekly Activity Heatmap</b></p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishku1502&bg_color=0d1117&color=10b981&line=0e75b6&point=ffffff&area=true&hide_border=true" width="100%" />
   
   <br />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashishku1502&theme=dracula&no-frame=true&row=1&margin-w=15" width="100%" style="margin-top: 10px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashishku1502&theme=dracula&no-frame=true&row=1&margin-w=15" width="100%" style="margin-top: 15px;" />
 </div>
 
+---
 ## 🔥 Currently Cooking
 
 <table align="center" width="100%" border="0" cellpadding="10" cellspacing="0">
