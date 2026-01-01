@@ -13,30 +13,32 @@
 
 ---
 
+---
+
 ## 🚀 About Me
 
-<table align="center" border="0" cellpadding="10">
+<table align="center" border="0" cellpadding="15" cellspacing="0">
   <tr>
-    <td width="50%" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" width="40" align="left" style="margin-right: 15px;" />
-      <h3>Expert Full Stack Developer</h3>
-      <p>Over <b>4+ years</b> of crafting high-performance web ecosystems. I bridge the gap between elegant frontends and robust, scalable backends.</p>
+    <td width="50%" valign="top" style="border-right: 1px solid #30363d; border-bottom: 1px solid #30363d;">
+      <img src="https://cdn-icons-png.flaticon.com/512/9496/9496555.png" width="50" align="left" style="margin-right: 15px;" />
+      <h3 style="color: #0e75b6;">Expert Full Stack Developer</h3>
+      <p>Over <b>4+ years</b> of crafting high-performance web ecosystems. Specializing in bridging the gap between elegant frontends and robust, scalable backends.</p>
     </td>
-    <td width="50%" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="40" align="left" style="margin-right: 15px;" />
-      <h3>Core Technology Stack</h3>
+    <td width="50%" valign="top" style="border-bottom: 1px solid #30363d;">
+      <img src="https://cdn-icons-png.flaticon.com/512/7991/7991055.png" width="50" align="left" style="margin-right: 15px;" />
+      <h3 style="color: #10b981;">Core Technology Stack</h3>
       <p>Mastering the <b>MERN</b> landscape: <b>JavaScript (ES6+), React.js, Node.js,</b> and <b>MongoDB</b> to build seamless user experiences.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/4712/4712139.png" width="40" align="left" style="margin-right: 15px;" />
-      <h3>AI & Automation Architect</h3>
+    <td width="50%" valign="top" style="border-right: 1px solid #30363d;">
+      <img src="https://cdn-icons-png.flaticon.com/512/8637/8637101.png" width="50" align="left" style="margin-right: 15px;" />
+      <h3 style="color: #10b981;">AI & Automation Architect</h3>
       <p>Harnessing <b>Gemini AI</b> and <b>n8n</b> to build intelligent <b>AI Agents</b> that automate complex business logic and workflows.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/10142/10142385.png" width="40" align="left" style="margin-right: 15px;" />
-      <h3>System Design & DevOps</h3>
+      <img src="https://cdn-icons-png.flaticon.com/512/10142/10142385.png" width="50" align="left" style="margin-right: 15px;" />
+      <h3 style="color: #0e75b6;">System Design & DevOps</h3>
       <p>Architecting <b>Cloud-Native</b> systems with a focus on <b>Microservices, API security,</b> and automated <b>CI/CD</b> pipelines.</p>
     </td>
   </tr>
