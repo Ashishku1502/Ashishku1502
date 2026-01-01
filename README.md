@@ -67,30 +67,40 @@
 
 ---
 
+---
+
 ## 📊 Performance Metrics
 
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Ashishku1502&show_icons=true&theme=tokyonight&border_radius=10" 
-             height="195" alt="Overall Stats" />
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ashishku1502&show_icons=true&theme=transparent&title_color=0e75b6&text_color=ffffff&icon_color=10b981&border_color=0e75b6&border_radius=15" height="180" alt="Overall Stats" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishku1502&layout=compact&theme=tokyonight&border_radius=10" 
-             height="195" alt="Top Languages" />
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishku1502&layout=compact&theme=transparent&title_color=0e75b6&text_color=ffffff&icon_color=10b981&border_color=0e75b6&border_radius=15" height="180" alt="Top Languages" />
       </td>
     </tr>
   </table>
+
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishku1502&theme=transparent&fire=10b981&currStreakLabel=0e75b6&sideLabels=ffffff&border=0e75b6&border_radius=15" height="180" alt="GitHub Streak" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishku1502&bg_color=00000000&color=10b981&line=0e75b6&point=ffffff&area=true&hide_border=true" height="180" alt="Activity Graph" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashishku1502&theme=dracula&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashishku1502&theme=onestar&no-frame=true&row=1" alt="GitHub Trophies" />
-</p>
-
 ---
 
----
 
 ## 🔥 Currently Cooking
 
