@@ -87,22 +87,34 @@
 
 ## 🔥 Currently Cooking
 
-- 🏦 **WealthWise AI Agent**: An intelligent finance assistant for real-time portfolio tracking.
-- ⚡ **Autonomous Workflows**: Building complex multi-step automations using **n8n** and **LangChain**.
-- ☁️ **SaaS Scalability**: Optimizing **AWS Lambda** architectures for enterprise-grade performance.
-
----
-
-## 🌐 Connect & Collaborate
-
-<p align="center">
-<a href="https://github.com/Ashishku1502"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/Ashishku15"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.linkedin.com/in/ashishku1502/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://ashishdev-portfolio.vly.site/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-</p>
+<table align="center" width="100%" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td width="33%" align="center" style="background-color: #0d1117; border-radius: 15px; border: 1px solid #30363d;">
+      <img src="https://cdn-icons-png.flaticon.com/512/3252/3252912.png" width="60" /><br>
+      <h4 style="color: #0e75b6;">WealthWise AI</h4>
+      <p style="font-size: 13px;">Intelligent finance assistant for real-time portfolio tracking.</p>
+      <img src="https://img.shields.io/badge/Status-In%20Development-0e75b6?style=flat-square" />
+    </td>
+    <td width="33%" align="center" style="background-color: #0d1117; border-radius: 15px; border: 1px solid #30363d;">
+      <img src="https://cdn-icons-png.flaticon.com/512/10531/10531818.png" width="60" /><br>
+      <h4 style="color: #10b981;">Auto-Workflows</h4>
+      <p style="font-size: 13px;">Multi-step automations using <b>n8n</b> & <b>LangChain</b>.</p>
+      <img src="https://img.shields.io/badge/Status-Beta%20Testing-10b981?style=flat-square" />
+    </td>
+    <td width="33%" align="center" style="background-color: #0d1117; border-radius: 15px; border: 1px solid #30363d;">
+      <img src="https://cdn-icons-png.flaticon.com/512/5903/5903517.png" width="60" /><br>
+      <h4 style="color: #0e75b6;">SaaS Scalability</h4>
+      <p style="font-size: 13px;">Optimizing <b>AWS Lambda</b> for enterprise performance.</p>
+      <img src="https://img.shields.io/badge/Status-Research-lightgrey?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
+</div>
+---
+
   <br />
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=30&section=footer" width="100%" />
   <p><i>"Build systems that scale, code that lasts, and products that matter."</i></p>
