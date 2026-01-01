@@ -1,79 +1,96 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Ashish%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:10b981&height=220&section=header&text=Ashish%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+
+  <img src="profile-pic.jpg" alt="Ashish Kumar" width="200" style="border-radius: 50%; border: 5px solid #0e75b6; padding: 5px; margin-top: -100px; background: white;"/>
+
+  <h1>Hi 👋, I'm Ashish Kumar</h1>
+  <p>🚀 <b>AI Full Stack Developer | MERN | Cloud | AI Agents</b></p>
   
-  <h3>🚀 AI Full Stack Developer | MERN | Cloud | AI Agents</h3>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Ashishku1502&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="views" />
-    <img src="https://img.shields.io/github/followers/Ashishku1502?label=Followers&style=flat-square&color=blue" alt="followers" />
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=Ashishku1502&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
 </div>
 
 ---
 
-## ⚡ About Me
+## 🚀 About Me
 
-- 💻 **AI Full Stack Developer** with **4+ years** of building production-ready apps.
-- ⚙️ Mastery in the **MERN Stack** (MongoDB, Express, React, Node.js).
-- 🤖 Specialized in **AI Agents**, **n8n automation**, and **Large Language Models (Gemini/OpenAI)**.
-- ☁️ Expert in **AWS Cloud Services**, **Docker**, and automated **CI/CD** pipelines.
-- 🎯 Passionate about **System Design** and creating scalable, cloud-native architectures.
-
----
-
-## 🛠️ Tech Stack & Toolbox
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,html,css" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql" /> |
-| **AI & Automation** | <img src="https://skillicons.dev/icons?i=botpress,discord,githubactions" /> + **n8n, LangChain, Gemini** |
-| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,github" /> |
+- 💻 **AI Full Stack Developer** with **4+ years** of professional experience.
+- ⚙️ **Core Tech:** Specialized in building high-performance applications using **JavaScript, React, Node.js, and MongoDB**.
+- 🤖 **AI Enthusiast:** Currently architecting **AI Agents**, **n8n automations**, and **Gemini AI** integrations.
+- 🧠 **Engineer:** Passionate about **System Design**, complex API structures, and robust **CI/CD** pipelines.
+- 🎯 **Vision:** Creating scalable, cloud-native solutions that solve real-world problems.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashishku1502&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishku1502&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashishku1502&theme=tokyonight" width="100%" />
-</div>
-
----
-
-## 🏆 Achievements & Contributions
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashishku1502&theme=tokyonight&no-frame=true&margin-w=15" />
+<a href="https://github.com/Ashishku1502"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🔥 Current Focus
-- 🤖 **WealthWise AI:** An autonomous Finance Agent for personal wealth management.
-- ⚙️ **Workflow Scaling:** Building complex multi-step automations using **n8n** and **LangGraph**.
-- ☁️ **Serverless:** Deep diving into AWS Lambda and Event-Bridge for event-driven systems.
+## 🧰 Tech Toolbox
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="20%"><b>Frontend</b></td>
+    <td align="center" width="20%"><b>Backend</b></td>
+    <td align="center" width="20%"><b>Database</b></td>
+    <td align="center" width="20%"><b>Cloud/DevOps</b></td>
+    <td align="center" width="20%"><b>AI & Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=botpress,postman" />
+      <br>
+      <img src="https://cdn-icons-png.flaticon.com/512/8637/8637101.png" width="25" /> <b>n8n</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Connect & Collaborate
+## 📊 Performance Metrics
 
 <p align="center">
-  <a href="https://github.com/Ashishku1502"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashishku1502&show_icons=true&theme=tokyonight&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishku1502&layout=compact&theme=tokyonight&border_radius=10" height="180" />
 </p>
 
 <p align="center">
-  <i>“Build systems that scale, code that lasts, and products that matter.”</i>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashishku1502&theme=onestar&no-frame=true&row=1" />
 </p>
+
+---
+
+## 🔥 Currently Cooking
+
+- 🏦 **WealthWise AI Agent**: An intelligent finance assistant for real-time portfolio tracking.
+- ⚡ **Autonomous Workflows**: Building complex multi-step automations using n8n and LangChain.
+- ☁️ **SaaS Scalability**: Optimizing AWS Lambda architectures for enterprise-grade performance.
+
+---
+
+## ✨ Philosophy
+
+> *"Build systems that scale, code that lasts, and products that matter."*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ashishku1502/Ashishku1502/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=30&section=footer" width="100%" />
+  <p>⭐️ Don't forget to star my repos if you find them helpful!</p>
 </div>
