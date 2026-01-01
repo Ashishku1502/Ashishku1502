@@ -65,16 +65,30 @@
 
 ---
 
+---
+
 ## 📊 Performance Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashishku1502&show_icons=true&theme=tokyonight&border_radius=10" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishku1502&layout=compact&theme=tokyonight&border_radius=10" height="180" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Ashishku1502&show_icons=true&theme=tokyonight&border_radius=10" 
+             height="195" alt="Overall Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishku1502&layout=compact&theme=tokyonight&border_radius=10" 
+             height="195" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashishku1502&theme=onestar&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashishku1502&theme=onestar&no-frame=true&row=1" alt="GitHub Trophies" />
 </p>
+
+---
 
 ---
 
