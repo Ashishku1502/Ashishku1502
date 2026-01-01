@@ -65,26 +65,33 @@
 
 ## 📊 Performance & Impact
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashishku1502&show_icons=true&theme=transparent&title_color=0e75b6&text_color=ffffff&icon_color=10b981&border_color=0e75b6&hide_border=false&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishku1502&layout=compact&theme=transparent&title_color=0e75b6&text_color=ffffff&icon_color=10b981&border_color=0e75b6&hide_border=false&border_radius=10" width="48%" />
-</div>
+<table align="center" width="100%" border="0" cellpadding="0" cellspacing="5">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ashishku1502&show_icons=true&theme=transparent&title_color=0e75b6&text_color=ffffff&icon_color=10b981&border_color=0e75b6&hide_border=false&border_radius=10" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishku1502&layout=compact&theme=transparent&title_color=0e75b6&text_color=ffffff&icon_color=10b981&border_color=0e75b6&hide_border=false&border_radius=10" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishku1502&theme=transparent&fire=10b981&currStreakLabel=0e75b6&sideLabels=ffffff&border=0e75b6&border_radius=10" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://leetcard.jacoblin.cool/Ashishku15?theme=dark&font=Syne&ext=activity" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishku1502&theme=transparent&fire=10b981&currStreakLabel=0e75b6&sideLabels=ffffff&border=0e75b6&border_radius=10" width="48%" />
-  <img src="https://leetcard.jacoblin.cool/Ashishku15?theme=dark&font=Syne&ext=activity" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <p><b>Weekly Activity</b></p>
+<div align="center" style="margin-top: 15px;">
+  <p><b>⚡ Activity Timeline</b></p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishku1502&bg_color=0d1117&color=10b981&line=0e75b6&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashishku1502&theme=dracula&no-frame=true&row=1&margin-w=15" width="100%" />
+</div>
 
 ## 🔥 Currently Cooking
 
