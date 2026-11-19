@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href=" https://ashish-ai-portfolio-static-build.vercel.app/">
+<a href="https://ashish-ai-portfolio-static-build.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2600&pause=900&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=110&lines=Ashish+Kumar;AI+Full-Stack+Engineer+%7C+LLMs+%E2%80%A2+RAG+%E2%80%A2+Agents" alt="Ashish Kumar" />
 </a>
 
