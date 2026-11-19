@@ -7,7 +7,7 @@
 **Architecting low-latency LLM systems, multi-agent pipelines, and scalable full-stack products.**
 
 <p>
-  <a href="https://portfolio-aura.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-090D16?style=flat-square&logo=vercel&logoColor=10B981" /></a>
+  <a href="https://ashish-ai-portfolio-static-build.vercel.app"><img src="https://img.shields.io/badge/Portfolio-090D16?style=flat-square&logo=vercel&logoColor=10B981" /></a>
   <a href="https://www.linkedin.com/in/ashishku1502/"><img src="https://img.shields.io/badge/LinkedIn-090D16?style=flat-square&logo=linkedin&logoColor=10B981" /></a>
   <a href="https://leetcode.com/Ashishku15"><img src="https://img.shields.io/badge/LeetCode-090D16?style=flat-square&logo=leetcode&logoColor=10B981" /></a>
   <a href="mailto:ashishku1502@gmail.com"><img src="https://img.shields.io/badge/Email_Me-10B981?style=flat-square&logo=gmail&logoColor=090D16" /></a>
